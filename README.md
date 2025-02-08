@@ -50,7 +50,7 @@ A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizin
 
 ## 🤝 Contributing  
 
-Want to enhance this project? We’d love your help! 💡  
+? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
