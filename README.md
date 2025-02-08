@@ -29,7 +29,7 @@ A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizin
 ---
 
 ## 🚀 How to Use 
-1. **Open the App** – Load `index.html` in your browser. 🌐  
+1.  **Open the App** – Load `index.html` in your browser. 🌐  
 2. **Sign Up** – Enter your details and register a new account. ✍ 
 3. **Sign In** – Use your credentials to log in securely. 🔓   
 4. **Enjoy** – Smooth animation experience! 🎯   
