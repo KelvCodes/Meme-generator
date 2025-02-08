@@ -1,0 +1,78 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  text-align: center;
+  background-color: black;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: 350px; /* Slightly wider card */
+  width: 100%;
+}
+
+h1 {
+  font-size: 1.8em;
+  color: goldenrod;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: 'Georgia', serif; /* Use a serif font for the title */
+}
+
+#meme-container {
+  margin: 20px 0;
+  background-color: goldenrod;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+#meme-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+#meme-title {
+  margin-top: 10px;
+  font-size: 1.1em;
+  color: #555;
+  font-weight: bold;
+  font-family: 'Georgia', serif; /* Use a serif font for the title */
+  word-wrap: break-word; /* Ensure long titles don't overflow */
+}
+
+#generate-btn {
+  padding: 12px 25px;
+  font-size: 1em;
+  color: black;
+  background-color: goldenrod;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+  width: 100%; /* Full-width button */
+  font-family: 'Arial', sans-serif; /* Use a sans-serif font for the button */
+}
+
+#generate-btn:hover {
+  background-color: black;
+  color: goldenrod;
+}
+
+#generate-btn:active {
+  transform: scale(0.98);
+}
