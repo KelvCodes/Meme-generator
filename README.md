@@ -10,7 +10,7 @@ A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizin
 ## 🌟 Features  
 - **🤣 Random Memes** – Fetches memes from an API for endless laughs.
 - **🎨 Stylish UI** – Simple, modern, and responsive design 
--**⚡ Instant Load** – Click a button, get a meme—super fast! 
+- **⚡ Instant Load** – Click a button, get a meme—super fast! 
 - **📱 Fully Responsive** – Works smoothly on all devices.  
 
 
