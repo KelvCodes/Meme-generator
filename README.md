@@ -30,7 +30,7 @@ A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizin
 
 ## 🚀 How to Use 
 1.  **Open the App** – Load `index.html` in your browser. 🌐  
-2. **Click the Button** – Generate a random meme instantly. 🖱
+2.  **Click the Button** – Generate a random meme instantly. 🖱
 3.**Enjoy** – Laugh, screenshot, and share! 😂 
 4. **Enjoy** – Smooth animation experience! 🎯   
 
