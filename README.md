@@ -1,7 +1,9 @@
 # 😂 Meme Generator 🚀
 
- Welcome to the **Sign-In & Sign-Up Forms** project! 🎉  
-A simple, modern, and fully responsive authentication system built with **HTML, CSS, and JavaScript**. Create and log into accounts seamlessly with a sleek and user-friendly interface. 🔥
+ Welcome to the **Meme Generator** project! 🎉  
+A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizing an API to fetch and display random memes with a single click. Generate hilarious memes effortlessly! 🎭  
+
+
 
 ---
 
