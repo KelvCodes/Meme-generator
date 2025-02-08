@@ -8,7 +8,7 @@ A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizin
 ---
 
 ## 🌟 Features  
-- **📝 Sign-Up Form** – Register new users effortlessly
+- **🤣 Random Memes** – Fetches memes from an API for endless laughs.
 - **🔑 Sign-In Form** – Securely log in with saved credentials 
 - **📱 Responsive Design** – Looks great on all devices.   
 - **🎨 Clean UI** – A modern, intuitive, and engaging experience with smooth animation. 
