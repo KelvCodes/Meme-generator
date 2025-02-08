@@ -44,7 +44,7 @@ A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizin
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
-   No setup required—just sign up and sign in! 🚀
+ 
 
 ---
 
